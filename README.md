@@ -5,6 +5,7 @@
 
 ### <div align="center">Hi , I'm Yunus. </div>  
   
+I develop innovative solutions for challenges in systems and networks using machine learning. Fundamentally, I design and implement algorithms to enhance the performance of existing systems, optimize network traffic, and strengthen security mechanisms.
 
 - ❓ Ask me about anything yunusdikkat19@gmail.com  
   
